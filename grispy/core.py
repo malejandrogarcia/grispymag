@@ -8,7 +8,7 @@
 #   Full Text: https://github.com/mchalela/GriSPy/blob/master/LICENSE
 
 
-"""GriSPy core class"""
+"""GriSPy core class."""
 
 
 import numpy as np
